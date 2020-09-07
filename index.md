@@ -1,8 +1,8 @@
-# Blogg för XX
+# Blogg för Samuel och Pontus
 
 Lektion:
 
-[01: beskrivning](00.md)
+[01: Röda tråd: Internet och moln](01.md)
 
 02: beskrivning
 
