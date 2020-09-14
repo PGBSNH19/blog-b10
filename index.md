@@ -4,11 +4,11 @@ Lektion:
 
 [01: Röda tråd: Internet och moln](01.md)
 
-02: beskrivning
+[02: Virtuelle maskiner och infrastruktur som kod](02.md)
 
-03: beskrivning
+[03: Containrar](03.md)
 
-04: beskrivning
+[04: Automatisering av bygg och release](04.md)
 
 05: beskrivning
 
