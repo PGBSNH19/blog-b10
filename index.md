@@ -10,9 +10,13 @@ Lektion:
 
 [04: Automatisering av bygg och release](04.md)
 
-05: beskrivning
+[05a: Databaser i molnet](05a.md)
 
-06: beskrivning
+[05b: Databaser i molnet](05b.md)
+
+[06a: Webbapplikationer i molnet](06a.md)
+
+[06b: Webbapplikationer i molnet](06b.md)
 
 07: beskrivning
 
